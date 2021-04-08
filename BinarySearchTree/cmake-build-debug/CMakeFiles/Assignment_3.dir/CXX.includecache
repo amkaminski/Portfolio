@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/SEM4-NSCC/PROG_2400/Assignments/assignment-3-amkaminski/src/BSTree.h
+Node.h
+F:/SEM4-NSCC/PROG_2400/Assignments/assignment-3-amkaminski/src/Node.h
+vector
+-
+
+F:/SEM4-NSCC/PROG_2400/Assignments/assignment-3-amkaminski/src/Node.h
+iostream
+-
+iomanip
+-
+
+F:/SEM4-NSCC/PROG_2400/Assignments/assignment-3-amkaminski/src/main.cpp
+iostream
+-
+fstream
+-
+Node.h
+F:/SEM4-NSCC/PROG_2400/Assignments/assignment-3-amkaminski/src/Node.h
+BSTree.h
+F:/SEM4-NSCC/PROG_2400/Assignments/assignment-3-amkaminski/src/BSTree.h
+
